@@ -13,5 +13,5 @@ export default function App() {
         <AppNavigator />
       </NavigationContainer>
     </CurriculumProvider>
-  );
+  ); 
 }
